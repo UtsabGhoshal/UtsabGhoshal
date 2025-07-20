@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Utsab Ghoshal! 👋
 
-<!--
-**UtsabGhoshal/UtsabGhoshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** | 💻 **Enthusiastic Coder** | 🏏 Part-time Cricketer | 🌏 Full-time Traveller
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about exploring the world of technology and always eager to take on new opportunities. As a student, I love diving into new languages, frameworks, and tools, and thrive on the excitement of continuous learning.
+
+## 🛠️ Skills
+
+- **Languages:** Python, Java, JavaScript, TypeScript, C, C++
+- **Frameworks & Libraries:** React, Express, Node.js
+- **Database:** MongoDB
+
+## 💡 What Drives Me
+
+- Exploring the endless possibilities in tech
+- Solving challenging problems through code
+- Always up for collaborative, open-source learning
+
+## 🌐 Connect with Me!
+
+- [LinkedIn](#) <!-- Replace # with your LinkedIn URL -->
+- [Twitter](#)  <!-- Replace # with your Twitter URL -->
+- 📧 utsab.ghoshal@gmail.com
+
+## ⚡ Fun Facts
+
+- 🏏 Part-time cricketer
+- 🌏 Full-time traveller
+- Always ready for a coding challenge!
+
+---
+
+> "Opportunities are everywhere, you just need to code your way towards them!"
